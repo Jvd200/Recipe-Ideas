@@ -38,7 +38,7 @@ Then open http://localhost:5173/
 
 🌐 Deployment
 
-Live Demo: https://your-deployment-link.vercel.app
+Live Demo: [https://your-deployment-link.vercel.app](https://cooking-time-l47bxkiyn-dayananda-j-vs-projects.vercel.app)
 
 Credits
 API provided by TheMealDB
